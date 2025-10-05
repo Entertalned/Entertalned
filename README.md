@@ -39,7 +39,7 @@
 
 ### Achievements
 <div style="text-align: left;">  
-    - High School Diploma <a href=""></a>. (2024)
+    - High School Diploma <a href=""></a>. (2026)
 </div>
 
 <hr />
