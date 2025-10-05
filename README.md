@@ -40,6 +40,7 @@
 ### Achievements
 <div style="text-align: left;">  
     - High School Diploma <a href=""></a>. (2026)
+    - Coding without ChatGPT <a href=""></a> (2022)
 </div>
 
 <hr />
