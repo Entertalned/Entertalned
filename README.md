@@ -32,6 +32,7 @@
   <ul style="list-style-type: none; padding: 0;">
     <li>CSS Styles: <a href="https://userstyles.world/user/SlimsBotAndSuch" target="_blank">Website</a> || <a href="" target="_blank"> Github</a> - 2025 </li>
     <li>Abandoned Discord Bot Project: <a href="https://github.com/Entertalned/SMB-Offical" target="_blank">GitHub</a> - 2022</li>
+    <li>Survev.io GUI: <a href="https://github.com/Entertalned/GUI-Project"  target="_blank">Github</a> -2025</li>
   </ul>
 </div>
 
