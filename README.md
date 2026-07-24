@@ -49,18 +49,27 @@
 <hr />
 <!-- GitHub Stats -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Entertalned&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00">
+    <img src="https://streak-stats.demolab.com?user=Entertalned&theme=shadow_green&hide_border=false&stroke=FFFFFF&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF">
 </div>
 
 <hr />
 
 <!-- Language Stats -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Entertalned&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000">
+    <img src="https://github-readme-stats.shion.dev/api?username=Entertalned&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&text_color=FFFFFF&title_color=00FF99&icon_color=00FF99">
 </div>
 <br />
 
 <hr />
+
+<!-- Language Stats -->
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=Entertalned&theme=shadow_green&hide_border=false&stroke=FFFFFF&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF">
+</div>
+<br />
+
+<hr />
+
 
 <!-- Social Badges -->
 <div align="center">
