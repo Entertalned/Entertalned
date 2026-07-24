@@ -49,28 +49,20 @@
 <hr />
 <!-- GitHub Stats -->
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Entertalned&theme=shadow_green&hide_border=false&stroke=FFFFFF&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF">
+  
+![](https://github-readme-stats.shion.dev/api?username=entertalned&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&text_color=FFFFFF&title_color=00FF99&icon_color=00FF99)
 </div>
-
-<hr />
 
 <!-- Language Stats -->
 <div align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Entertalned&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&text_color=FFFFFF&title_color=00FF99&icon_color=00FF99">
+  
+![](https://streak-stats.demolab.com?user=entertalned&theme=shadow_green&hide_border=false&stroke=FFFFFF&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
 </div>
-<br />
-
-<hr />
-
 <!-- Language Stats -->
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Entertalned&theme=shadow_green&hide_border=false&stroke=FFFFFF&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF">
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=entertalned&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&text_color=FFFFFF&title_color=00FF99)
 </div>
-<br />
-
-<hr />
-
-
 <!-- Social Badges -->
 <div align="center">
     <a href="http://discord.com/users/1238225742802849823"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
